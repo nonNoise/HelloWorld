@@ -37,5 +37,40 @@
 	- 新規事業の発明
 	- エンジニアコンサルティング
 	- チームの盛り上げ
-
-
+:開発環境:
+	- Main : Ubuntu12
+		- Python
+		- C
+		- Arduino
+		- Eagle(HW-CAD)
+		- Other-MPU
+	- Sub  : Mac OS
+		- Python
+		- Sphinx
+		- Arduino
+	- VPS : Ubuntu12
+		- Python
+		- Apachi
+	- RasbperryPi : Debian
+		- Python
+		- Pyserial
+		- PyFlask
+:得意な言語:
+	- C
+	- Python
+	- VHDL
+	- LaTeX
+	- reST
+:得意なマイコン:
+	- R8C
+	- RX
+	- PSoC
+	- PIC
+	- Xilinx-CPLD
+	- Xilinx-FPGA
+:得意なシステム:
+	- ネットワークシステム
+	- サービス指向アーキテクチャ
+	- 分散処理、分担処理
+	- 無人工場設計
+	- 品質管理システム
