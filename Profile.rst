@@ -1,5 +1,5 @@
 
-プロフィール2
+プロフィール
 ***************************************
 
 :名前: 北神 雄太(Yuta Kitagami)
@@ -7,7 +7,7 @@
 :Twitter: http://twitter.com/nonNoise
 :FaceBook: https://www.facebook.com/yuta.kitagamiEx
 :誕生日: 1987/11/21
-:年齢:25才
+:年齢: 25才
 :職業: 発明家、ハッカー、フリーランス
 :学歴:
 	- 2000年3月　公立　国分小学校　卒業
