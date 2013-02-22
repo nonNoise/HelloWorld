@@ -3,11 +3,16 @@
 ***************************************
 
 :名前: 北神 雄太(Yuta Kitagami)
-:Mail: hokusin02 at gmail.com
-:Twitter: http://twitter.com/nonNoise
-:FaceBook: https://www.facebook.com/yuta.kitagamiEx
 :誕生日: 1987/11/21
 :年齢: 25才
+:性別: 男性
+:身長: 180 cm
+:体重: 55 kg
+:Mail: hokusin02 at gmail.com
+:URL: http://www.kitagami.org
+:Twitter: http://twitter.com/nonNoise
+:FaceBook: https://www.facebook.com/yuta.kitagamiEx
+
 :職業: 発明家、ハッカー、フリーランス
 :学歴:
 	- 2000年3月　公立　国分小学校　卒業
