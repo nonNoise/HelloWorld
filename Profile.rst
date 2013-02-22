@@ -27,9 +27,6 @@
 		- CPLDを使ったパルス分配器
 		- 小型Felicaリーダーの開発
 		- 電子楽器製作支援
-:勉強会実績:
-	- Arduino+Pythonハッキング　http://connpass.com/series/311/
-	- Night Hack Cero http://connpass.com/series/269/
 :専門・特技:
 	- システム開発and運営
 	- 組込み開発
@@ -37,24 +34,6 @@
 	- 新規事業の発明
 	- エンジニアコンサルティング
 	- チームの盛り上げ
-:開発環境:
-	- Main : Ubuntu12
-		- Python
-		- C
-		- Arduino
-		- Eagle(HW-CAD)
-		- Other-MPU
-	- Sub  : Mac OS
-		- Python
-		- Sphinx
-		- Arduino
-	- VPS : Ubuntu12
-		- Python
-		- Apachi
-	- RasbperryPi : Debian
-		- Python
-		- Pyserial
-		- PyFlask
 :得意な言語:
 	- C
 	- Python
@@ -74,3 +53,6 @@
 	- 分散処理、分担処理
 	- 無人工場設計
 	- 品質管理システム
+:勉強会実績:
+	- Arduino+Pythonハッキング　http://connpass.com/series/311/
+	- Night Hack Cero http://connpass.com/series/269/
