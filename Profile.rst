@@ -1,4 +1,3 @@
-
 プロフィール
 ***************************************
 
@@ -10,7 +9,6 @@
 :体重: 55 kg
 :Mail: hokusin02 at gmail.com
 :URL: http://www.kitagami.org
-:Twitter: http://twitter.com/nonNoise
 :FaceBook: https://www.facebook.com/yuta.kitagamiEx
 
 :職業: 発明家、ハッカー、フリーランス
