@@ -31,6 +31,8 @@
 	- 小型Felicaリーダーの開発
 	- 電子楽器製作支援
 	- RAPIROに搭載するSDカードの開発
+	- ハードウェアをWebAPIにするElpisフレームワークの開発
+		http://elpis.artifactnoise.com/elpis/index.html
 
 :勉強会実績:
 	- Arduino+Pythonハッキング　http://connpass.com/series/311/
