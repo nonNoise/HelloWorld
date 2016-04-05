@@ -6,13 +6,16 @@ My Profile  プロフィール
 
  .. image:: 2016kitagami.jpg
 	:width: 200px
+	:height: 200px
  
  .. image:: 2014Kitagami.jpg
 	:width: 200px
+ 	:height: 200px
  
  .. image:: 2006Kitagami.jpg
 	:width: 200px
-
+	:height: 200px
+ 
  
 
 
