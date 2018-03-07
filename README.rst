@@ -1,6 +1,6 @@
 
 ===================================================
-My Profile  プロフィール
+My Profile
 ===================================================
 
  .. image:: 2017kitagami.jpg
@@ -19,80 +19,73 @@ My Profile  プロフィール
 	:width: 200px
 	:height: 200px
  
- 
-
-
-:名前: 北神 雄太(Yuta Kitagami)
-:誕生日: 1987/11/21
-:年齢: 30才
-:性別: 男性
-:身長: 180 cm
-:体重: 55 kg
+:Name: Yuta Kitagami (Yuta Kitagami)
+:Birthday: November 21, 1987
+:Age: 30 years old
+:from: Tokyo,JAPAN.
+:Gender: male
+:Height: 180 cm
+:Weight: 55 kg
 :Mail: hokusin02 at gmail.com
 :URL: http://www.kitagami.org
 :Twitter: http://twitter.com/nonNoise
 :FaceBook: https://www.facebook.com/yuta.kitagamiEx
 
-:経歴:
-	- 1987年11月　生誕
-	- 1989年某月  親の都合でアメリカ ニューヨークで生活
-	- 1994年      日本に帰国　国分小学校2年に転入
-	- 2000年3月　 公立　国分小学校　卒業
-	- 2003年3月　 公立　東国分中学校卒業
-	- 2006年3月 　私立　日本工業大学付属東京工業学校　卒業
-	- 2010年3月 　私立　日本工業大学　卒業
+:Biography:
+- November, 1987 birth place
+- 1989 Living in New York in USA due to circumstances of parents
+- 1994 Returned to Japan Returned to Kokubu Elementary School 2nd year
+- Graduated from Public Kokubu Elementary School in March 2000
+- March 2003 Graduated from the public eastern Kokubu junior high school
+- March 2006 Graduated from Tokyo Institute of Technology attached to Private Japan Institute of Technology
+- March 2010 Graduated from Private Japan Institute of Technology
 
-:職歴:
-	- 2004年～2011年　特殊電子回路(株) FPGAのハードウェア設計＆検査
-	- 2011年～2012年　契約社員でFPGAを使った通信機器の開発に従事
-	- 2013年        個人事業主としてソフトの開発やアドバイザーを勤める
-	- 2013年        同じくして、秋葉原最大の電子部品販売店にて技術部で勤務
-	- 2014年        同じくして、IT企業のIoT外部技術顧問に携わる
-	- 2016年        Intel Edisonマスターブックを発売
-	- 2016年        ArtifactNoiseとしてエナジーアンプシリーズを発売
-	- 2017年        イギリスのオモチャベンチャー企業と製品開発に携わる
-	
+:Work experience:
+- 2004 - 2011 Hardware design & inspection of FPGA, Special Electronic Circuits Co., Ltd.
+- Contract employees engaged in development of communications equipment using FPGAs from 2011 to 2012
+- As a personal business owner in 2013 to serve as software development and advisor
+- Similarly in 2013, worked for technical department at Akihabara's largest electronic parts dealer
+- In 2014 I also participate in IoT external technical advisor of IT company
+- Introduces Intel Edison Master Book in 2016
+- Released energy amplifier series as Artifact Noise in 2016
+- 2017 Engaged in product development with a toy venture company in the UK
 
-:過去の開発実績:
-	- ハードウェア同士を組み合わせたパンドラシステム	
-	- FPGAの試作用ボード
-	- FPGAを使い、ディスコンになった専用ICの同等回路の開発
-	- CPLDを使ったパルス分配器
-	- 小型Felicaリーダーの開発
-	- 電子楽器製作支援
-	- RAPIROに搭載するSDカードの開発
-	- ハードウェアをWebAPIにするElpisフレームワークの開発
-		http://elpis.artifactnoise.com/elpis/index.html
-	- Intel Edisonボードサイトの開設
-		https://nonnoise.github.io/Edison/
-	- 秋葉原で購入出来る部品をライブラリ化する　akilibを開発
-		https://github.com/nonNoise/akilib
-	
-	
-	
-:勉強会実績:
-	- Arduino+Pythonハッキング　http://connpass.com/series/311/
-	- FPGA勉強会 http://connpass.com/event/2616/
-	- RaspberryPi 研究会 http://connpass.com/event/2815/
-	- Night Hack Cero http://connpass.com/series/269/
+:Past development results:
+- Pandora system combining hardware
+- FPGA prototype board
+- Development of an equivalent circuit of dedicated IC that became a disconnection using FPGA
+- Pulse distributor using CPLD
+- Development of small Felica reader
+- Electronic musical instrument production support
+- Development of SD card to be installed in RAPIRO
+- Development of the Elpis framework to make the hardware WebAPI http://elpis.artifactnoise.com/elpis/index.html
+- Establishment of Intel Edison board site https://nonnoise.github.io/Edison/
+- Developed akilib to library parts that can be purchased at Akihabara https://github.com/nonNoise/akilib
 
-:専門・特技:
-	- ハードウェア及びソフトウェアを複合した高度システムの開発と運営
-	- 組込みシステム開発
-	- WebAPI及びウェブサービスの設計と開発
-	- 新規事業の発明
-	- エンジニアコンサルティング
-	- IoTコンサルティング
-	- ハードウェアからネットワークまでトータルの開発が可能。
+
+:Study Group Achievement:
+- Arduino + Python Hacking http://connpass.com/series/311/
+- FPGA Study Group http://connpass.com/event/2616/
+- RaspberryPi Study Group http://connpass.com/event/2815/
+- Night Hack Cero http://connpass.com/series/269/
+
+:Specialty special skill:
+- Development and operation of an advanced system combining hardware and software
+- Embedded system development
+- Design and development of Web API and Web service
+- invention of new business
+- Engineer consulting
+- IoT Consulting
+- Total development from hardware to network is possible.
 
 
 
-:実務年数:
-	- 回路設計：実務 5年　（実務以外10年）
-	- 基板設計：実務 5年　（10年）
-	- マイコン開発：実務 3年　（5年）
-	- FPGA開発：実務 7年　(9年)
-	- Python :実務 1年　(5年)
-	- Web開発：実務 3年 (5年）
-	- IoT関連開発：実務 3年 (5年)
-	- システム開発：実務 2年 (5年)
+:Working years:
+- Circuit design: Five years practical (10 years since beginning )
+- Substrate design: Five years practical (10 years since beginning )
+- Microcomputer development: 3 years of practical work (5 years since beginning )
+- FPGA development: 7 years of practical work (9 years since beginning )
+- Python: 1 year of practical work (5 years since beginning )
+- Web development: 3 years of practical (5 years since beginning )
+- IoT related development: 3 years of practical work (5 years since beginning )
+- System development: 2 years of practical work (5 years since beginning )
