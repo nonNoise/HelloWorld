@@ -43,30 +43,39 @@ My Profile  プロフィール
 	- 2010年3月 　私立　日本工業大学　卒業
 
 :職歴:
-	- 2004年～2011年　特殊電子回路(株) FPGAのハードウェア設計＆検査
-	- 2011年～2012年　契約社員でFPGAを使った通信機器の開発に従事
-	- 2013年        個人事業主としてソフトの開発やアドバイザーを勤める
-	- 2013年        同じくして、秋葉原最大の電子部品販売店にて技術部で勤務
-	- 2014年        同じくして、IT企業のIoT外部技術顧問に携わる
-	- 2016年        Intel Edisonマスターブックを発売
-	- 2016年        ArtifactNoiseとしてエナジーアンプシリーズを発売
-	- 2017年        イギリスのオモチャベンチャー企業と製品開発に携わる
+	- 2004年～2011年		特殊電子回路(株) FPGAのハードウェア設計＆検査
+	- 2011年～2012年		契約社員でFPGAを使った通信機器の開発に従事
+	- 2013年				個人事業主としてソフトの開発やアドバイザーを勤める
+	- 2013年～				秋葉原最大の電子部品販売店(秋月電子)にて技術部として勤務(キット製作、技術サポートなど)
+	- 2014年-2015年			同じくして、IT企業のIoT外部技術顧問に携わる
+	- 2016年				Intel Edisonマスターブックを発売　　http://gihyo.jp/book/2017/978-4-7741-8921-5
+	- 2016年				ArtifactNoiseとしてエナジーアンプシリーズを発売
+	- 2017年-2018年			イギリスのオモチャベンチャー企業と製品開発に携わる
 	
 
 :過去の開発実績:
-	- ハードウェア同士を組み合わせたパンドラシステム	
+	- ハードウェア同士を組み合わせたネットワークシステム	
 	- FPGAの試作用ボード
 	- FPGAを使い、ディスコンになった専用ICの同等回路の開発
 	- CPLDを使ったパルス分配器
 	- 小型Felicaリーダーの開発
-	- 電子楽器製作支援
+	- 電子楽器の製作支援
 	- RAPIROに搭載するSDカードの開発
 	- ハードウェアをWebAPIにするElpisフレームワークの開発
 		http://elpis.artifactnoise.com/elpis/index.html
 	- Intel Edisonボードサイトの開設
 		https://nonnoise.github.io/Edison/
 	- 秋葉原で購入出来る部品をライブラリ化する　akilibを開発
-		https://github.com/nonNoise/akilib
+		https://git	hub.com/nonNoise/akilib
+	- Movidiusセットアップガイド
+		https://nonnoise.github.io/MovidiusSetting/Sphinx/build/html/index.html
+	- PocketBeagle Hotdog Board
+		https://github.com/nonNoise/PocketBeagle_Hotdog
+	- RaspberryPiセットアップガイド
+		https://github.com/nonNoise/RaspberryPi_Knowledge
+	- MCP2221A用Pythonライブラリ
+		https://github.com/nonNoise/PyMCP2221A
+
 	
 	
 	
@@ -75,6 +84,13 @@ My Profile  プロフィール
 	- FPGA勉強会 http://connpass.com/event/2616/
 	- RaspberryPi 研究会 http://connpass.com/event/2815/
 	- Night Hack Cero http://connpass.com/series/269/
+	- テモナ（株）社主催 RaspberryPiでIoT体験 　
+		- 第一回 https://connpass.com/event/18619/
+		- 第二回 https://connpass.com/event/20318/
+		- 第三回 https://connpass.com/event/22679/
+		- 第四回 https://connpass.com/event/25125/
+		- 第五回 https://shibuya-it-venture.connpass.com/event/30766/
+
 
 :専門・特技:
 	- ハードウェア及びソフトウェアを複合した高度システムの開発と運営
@@ -83,16 +99,15 @@ My Profile  プロフィール
 	- 新規事業の発明
 	- エンジニアコンサルティング
 	- IoTコンサルティング
-	- ハードウェアからネットワークまでトータルの開発が可能。
-
+	- ハードウェアからソフトウェア、ネットワークまでトータルの開発が可能。
 
 
 :実務年数:
-	- 回路設計：実務 5年　（実務以外10年）
-	- 基板設計：実務 5年　（10年）
-	- マイコン開発：実務 3年　（5年）
-	- FPGA開発：実務 7年　(9年)
-	- Python :実務 1年　(5年)
-	- Web開発：実務 3年 (5年）
-	- IoT関連開発：実務 3年 (5年)
-	- システム開発：実務 2年 (5年)
+	- 回路設計：実務 8年　		（実務以外13年）
+	- 基板設計：実務 8年　		（13年）
+	- マイコン開発：実務 3年	（5年）
+	- FPGA開発：実務 7年　		(9年)
+	- Python :実務 3年　		(8年)
+	- Web開発：実務 3年 		(5年）
+	- IoT関連開発：実務 3年 	(5年)
+	- システム開発：実務 2年	 (5年)
