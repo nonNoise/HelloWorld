@@ -111,3 +111,18 @@ My Profile  プロフィール
 	- Web開発：実務 3年 		(5年）
 	- IoT関連開発：実務 3年 	(5年)
 	- システム開発：実務 2年	 (5年)
+
+
+:ナレッジベース:
+	- Intel Edison http://nonnoise.github.io/Edison/Sphinx/_build/index.html
+	- Movidius https://nonnoise.github.io/MovidiusSetting/Sphinx/build/html/index.html
+	- Raspberry Pi https://github.com/nonNoise/RaspberryPi_Knowledge
+	- ロードセル https://github.com/nonNoise/HX711_Knowledge
+
+:開発ライブラリ:
+	- ipget https://pypi.python.org/pypi/ipget/0.1b
+	- akilib https://github.com/nonNoise/akilib
+	- PyGamepad https://github.com/nonNoise/PyGamepad
+	- EtherCAT_Master https://github.com/nonNoise/EtherCAT_Master
+	- PyMCP2221A https://github.com/nonNoise/PyMCP2221A
+
