@@ -3,6 +3,12 @@
 My Profile  プロフィール
 ===================================================
 
+
+ .. image:: 2019kitagami.jpg
+	:width: 200px
+	:height: 200px
+
+
  .. image:: 2017kitagami.jpg
 	:width: 200px
 	:height: 200px
