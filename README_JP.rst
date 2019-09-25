@@ -47,7 +47,7 @@ My Profile  プロフィール
 	- 2011年～2012年		契約社員でFPGAを使った通信機器の開発に従事
 	- 2013年				個人事業主としてソフトの開発やアドバイザーを勤める
 	- 2014年-2015年			同じくして、IT企業のIoT外部技術顧問に携わる
-	- 2016年				Intel Edisonマスターブックを発売　　http://gihyo.jp/book/2017/978-4-7741-8921-5
+	- 2016年				Intel Edisonマスターブックを発売　　
 	- 2016年				ArtifactNoiseとしてエナジーアンプシリーズを発売
 	- 2017年～2018年		イギリスのオモチャベンチャー企業と製品開発に携わる
 	- 2013年～2018年		秋葉原最大の電子部品販売店(秋月電子)にて技術部として勤務(キットの製作、技術サポートなど)
@@ -87,30 +87,34 @@ My Profile  プロフィール
 
 	- Intel Edisonマスターブック 〜IoTデバイスをつくろう〜 
 
-		:発売日:2017年5月10日
-		:著者:北神雄太　
-		:出版:技術評論社　
-		:サイズ:B5変形判／192ページ
-		:定価:(本体2,980円＋税）
-		:ISBN:978-4-7741-8921-5
-		:URL:https://gihyo.jp/book/2017/978-4-7741-8921-5
+		発売日:2017年5月10日
+		
+		著者:北神雄太　
+		
+		出版:技術評論社　
+		
+		サイズ:B5変形判／192ページ
+		
+		定価:(本体2,980円＋税）
+		
+		ISBN:978-4-7741-8921-5
+		
+		URL:https://gihyo.jp/book/2017/978-4-7741-8921-5
 
 
 	- C96技術結社Noise　EtherCATマスターブック 第1巻(フルカラー)
 
-		:発売日:2017年5月10日
-		:著者:北神雄太　
-		:出版:
-		:サイズ:32ページ・フルカラー
-		:定価:1000円
-		:ISBN:
-		:URL:https://artifactnoise.booth.pm/items/1531146
+		発売日:2019年7月21日
+		著者:北神雄太　
+		サイズ:32ページ・フルカラー
+		定価:1000円
+		URL:https://artifactnoise.booth.pm/items/1531146
 
 
 
 :過去の発表試料:
 
-	- ★ PyCon JP 2012
+	- PyCon JP 2012
 
 		Pythonistaの働き方
 
@@ -118,7 +122,7 @@ My Profile  プロフィール
 
 		https://www.youtube.com/watch?v=4D8kBAi4-IQ
 
-	- ★ PyCon JP 2013
+	- PyCon JP 2013
 
 		Python で、ハードウェアを Web API にする話 by 北神 雄太
 
@@ -126,13 +130,13 @@ My Profile  プロフィール
 
 		https://www.youtube.com/watch?v=KwmU3dRZagY
 
-	- ★ PyCon JP 2017
+	- PyCon JP 2017
 
 		Pythonの本気！RaspberryPiやEdisonを使ったIoTシステムの構築 (Yuta Kitagami) 
 
 		https://www.youtube.com/watch?v=EQtcsJq-l98
 
-	- ★ PyCon JP 2018
+	- PyCon JP 2018
 
 		Pythonを使ったハードウェア開発について(北神雄太)
 
