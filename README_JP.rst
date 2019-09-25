@@ -24,7 +24,7 @@ My Profile  プロフィール
 
 :名前: 北神 雄太(Yuta Kitagami)
 :誕生日: 1987/11/21
-:年齢: 30才
+:年齢: 31才
 :性別: 男性
 :身長: 180 cm
 :体重: 55 kg
@@ -46,12 +46,14 @@ My Profile  プロフィール
 	- 2004年～2011年		特殊電子回路(株) FPGAのハードウェア設計＆検査
 	- 2011年～2012年		契約社員でFPGAを使った通信機器の開発に従事
 	- 2013年				個人事業主としてソフトの開発やアドバイザーを勤める
-	- 2013年～				秋葉原最大の電子部品販売店(秋月電子)にて技術部として勤務(キット製作、技術サポートなど)
 	- 2014年-2015年			同じくして、IT企業のIoT外部技術顧問に携わる
 	- 2016年				Intel Edisonマスターブックを発売　　http://gihyo.jp/book/2017/978-4-7741-8921-5
 	- 2016年				ArtifactNoiseとしてエナジーアンプシリーズを発売
-	- 2017年-2018年			イギリスのオモチャベンチャー企業と製品開発に携わる
-	
+	- 2017年～2018年		イギリスのオモチャベンチャー企業と製品開発に携わる
+	- 2013年～2018年		秋葉原最大の電子部品販売店(秋月電子)にて技術部として勤務(キットの製作、技術サポートなど)
+	- 2017年				ArtifactNoiseとしEtherCATメンバーになり、EtherCATモジュールを発売
+	- 2018年～ 				秋葉原のIoT試作を行う会社に勤務。大手メーカーとIoT試作を行う。
+
 
 :過去の開発実績:
 	- ハードウェア同士を組み合わせたネットワークシステム	
@@ -75,9 +77,67 @@ My Profile  プロフィール
 		https://github.com/nonNoise/RaspberryPi_Knowledge
 	- MCP2221A用Pythonライブラリ
 		https://github.com/nonNoise/PyMCP2221A
+	- EtherCAT用Pythonライブラリ
+		https://github.com/nonNoise/EtherCAT_Master
+	- EtherCAT開発サイト
+		https://nonnoise.github.io/EtherCAT_Document/build/html/index.html
 
 	
-	
+:書籍実績:
+
+	- Intel Edisonマスターブック 〜IoTデバイスをつくろう〜 
+
+		:発売日:2017年5月10日
+		:著者:北神雄太　
+		:出版:技術評論社　
+		:サイズ:B5変形判／192ページ
+		:定価:(本体2,980円＋税）
+		:ISBN:978-4-7741-8921-5
+		:URL:https://gihyo.jp/book/2017/978-4-7741-8921-5
+
+
+	- C96技術結社Noise　EtherCATマスターブック 第1巻(フルカラー)
+
+		:発売日:2017年5月10日
+		:著者:北神雄太　
+		:出版:
+		:サイズ:32ページ・フルカラー
+		:定価:1000円
+		:ISBN:
+		:URL:https://artifactnoise.booth.pm/items/1531146
+
+
+
+:過去の発表試料:
+
+	- ★ PyCon JP 2012
+
+		Pythonistaの働き方
+
+		北神 雄太 / Yuta Kitagami
+
+		https://www.youtube.com/watch?v=4D8kBAi4-IQ
+
+	- ★ PyCon JP 2013
+
+		Python で、ハードウェアを Web API にする話 by 北神 雄太
+
+		流行りのハードウェア（Arduinoやmbedなど）と、流行りのカード型PC（RaspberrPyなど）を使い、Pythonでハードウェアの世界とWebの世界を繋げる仕組みを、デモを含めて説明して行きます。
+
+		https://www.youtube.com/watch?v=KwmU3dRZagY
+
+	- ★ PyCon JP 2017
+
+		Pythonの本気！RaspberryPiやEdisonを使ったIoTシステムの構築 (Yuta Kitagami) 
+
+		https://www.youtube.com/watch?v=EQtcsJq-l98
+
+	- ★ PyCon JP 2018
+
+		Pythonを使ったハードウェア開発について(北神雄太)
+
+		https://www.youtube.com/watch?v=bIKjTP-7mNk
+
 	
 :勉強会実績:
 	- Arduino+Pythonハッキング　http://connpass.com/series/311/
@@ -100,17 +160,17 @@ My Profile  プロフィール
 	- エンジニアコンサルティング
 	- IoTコンサルティング
 	- ハードウェアからソフトウェア、ネットワークまでトータルの開発が可能。
-
+	- Pythonを使った総合的システム開発
 
 :実務年数:
-	- 回路設計：実務 8年　		（実務以外13年）
-	- 基板設計：実務 8年　		（13年）
-	- マイコン開発：実務 3年	（5年）
-	- FPGA開発：実務 7年　		(9年)
-	- Python :実務 3年　		(8年)
-	- Web開発：実務 3年 		(5年）
-	- IoT関連開発：実務 3年 	(5年)
-	- システム開発：実務 2年	 (5年)
+	- 回路設計：実務 10年　		（実務以外13年）
+	- 基板設計：実務 10年　		（13年）
+	- マイコン開発：実務 5年	（10年）
+	- FPGA開発：実務 7年　		(7年)
+	- Python :実務 5年　		(10年)
+	- Web開発：実務 5年 		(8年）
+	- IoT関連開発：実務 8年 	(10年)
+	- システム開発：実務 5年	 (10年)
 
 
 :ナレッジベース:
