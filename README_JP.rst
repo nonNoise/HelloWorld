@@ -88,7 +88,19 @@ My Profile  プロフィール
 	- EtherCAT開発サイト
 		https://nonnoise.github.io/EtherCAT_Document/build/html/index.html
 
-	
+:ナレッジベース:
+	- Intel Edison http://nonnoise.github.io/Edison/Sphinx/_build/index.html
+	- Movidius https://nonnoise.github.io/MovidiusSetting/Sphinx/build/html/index.html
+	- Raspberry Pi https://github.com/nonNoise/RaspberryPi_Knowledge
+	- ロードセル https://github.com/nonNoise/HX711_Knowledge
+
+:開発ライブラリ:
+	- ipget https://pypi.python.org/pypi/ipget/0.1b
+	- akilib https://github.com/nonNoise/akilib
+	- PyGamepad https://github.com/nonNoise/PyGamepad
+	- PyMCP2221A https://github.com/nonNoise/PyMCP2221A
+	- EtherCAT_Master https://github.com/nonNoise/EtherCAT_Master
+
 :書籍実績:
 
 	- Intel Edisonマスターブック 〜IoTデバイスをつくろう〜 
@@ -187,16 +199,5 @@ My Profile  プロフィール
 	- システム開発：実務 5年 ------ 開発年数 10年
 
 
-:ナレッジベース:
-	- Intel Edison http://nonnoise.github.io/Edison/Sphinx/_build/index.html
-	- Movidius https://nonnoise.github.io/MovidiusSetting/Sphinx/build/html/index.html
-	- Raspberry Pi https://github.com/nonNoise/RaspberryPi_Knowledge
-	- ロードセル https://github.com/nonNoise/HX711_Knowledge
 
-:開発ライブラリ:
-	- ipget https://pypi.python.org/pypi/ipget/0.1b
-	- akilib https://github.com/nonNoise/akilib
-	- PyGamepad https://github.com/nonNoise/PyGamepad
-	- EtherCAT_Master https://github.com/nonNoise/EtherCAT_Master
-	- PyMCP2221A https://github.com/nonNoise/PyMCP2221A
 
