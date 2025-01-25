@@ -170,8 +170,9 @@ My Profile  プロフィール
 
 
 
+	その他の論文・書籍等
 
-https://jglobal.jst.go.jp/search/anythings#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%E5%8C%97%E7%A5%9E%E9%9B%84%E5%A4%AA%22%7D
+	https://jglobal.jst.go.jp/search/anythings#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%E5%8C%97%E7%A5%9E%E9%9B%84%E5%A4%AA%22%7D
 
 
 
