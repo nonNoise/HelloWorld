@@ -30,7 +30,7 @@ My Profile  プロフィール
 
 :名前: 北神 雄太(Yuta Kitagami)
 :誕生日: 1987/11/21
-:年齢: 33才
+:年齢: 38才 (2025年現在)
 :性別: 男性
 :身長: 180 cm
 :体重: 55 kg
@@ -58,7 +58,10 @@ My Profile  プロフィール
 	- 2017年～2018年 ----- イギリスのオモチャベンチャー企業と製品開発に携わる
 	- 2013年～2018年 ----- 秋葉原最大の電子部品販売店(秋月電子)にて技術部として勤務(キットの製作、技術サポートなど)
 	- 2017年 ------------ ArtifactNoiseとしEtherCATメンバーになり、EtherCATモジュールを発売
-	- 2018年～ ---------- 秋葉原のIoT試作を行う会社に勤務。大手メーカーとIoT試作を行う。
+	- 2018年～2020年 ---------- 秋葉原のIoT試作を行う会社に勤務。大手メーカーとIoT試作を行う。
+	- 2020年～ ---------- ArtifactNoise合同会社を設立。
+	- 2020年～ ---------- 同会社にて技術コンサルとして従事
+
 
 
 :過去の開発実績:
@@ -73,6 +76,12 @@ My Profile  プロフィール
 		http://elpis.artifactnoise.com/elpis/index.html
 	- Intel Edisonボードサイトの開設
 		https://nonnoise.github.io/Edison/
+
+:ナレッジベース:
+	- Intel Edison http://nonnoise.github.io/Edison/Sphinx/_build/index.html
+	- Movidius https://nonnoise.github.io/MovidiusSetting/Sphinx/build/html/index.html
+	- Raspberry Pi https://github.com/nonNoise/RaspberryPi_Knowledge
+	- ロードセル https://github.com/nonNoise/HX711_Knowledge
 	- 秋葉原で購入出来る部品をライブラリ化する　akilibを開発
 		https://git	hub.com/nonNoise/akilib
 	- Movidiusセットアップガイド
@@ -87,12 +96,6 @@ My Profile  プロフィール
 		https://github.com/nonNoise/EtherCAT_Master
 	- EtherCAT開発サイト
 		https://nonnoise.github.io/EtherCAT_Document/build/html/index.html
-
-:ナレッジベース:
-	- Intel Edison http://nonnoise.github.io/Edison/Sphinx/_build/index.html
-	- Movidius https://nonnoise.github.io/MovidiusSetting/Sphinx/build/html/index.html
-	- Raspberry Pi https://github.com/nonNoise/RaspberryPi_Knowledge
-	- ロードセル https://github.com/nonNoise/HX711_Knowledge
 
 :開発ライブラリ:
 	- ipget https://pypi.python.org/pypi/ipget/0.1b
@@ -189,14 +192,14 @@ My Profile  プロフィール
 	- Pythonを使った総合的システム開発
 
 :実務年数:
-	- 回路設計：実務 10年　--------- 開発年数 13年
-	- 基板設計：実務 10年　--------- 開発年数 13年
-	- マイコン開発：実務 5年 ------- 開発年数 10年
-	- FPGA開発：実務 7年　--------- 開発年数 7年
-	- Python :実務 5年　---------- 開発年数 10年
-	- Web開発：実務 5年 ---------- 開発年数 8年
-	- IoT関連開発：実務 8年 ------- 開発年数 10年
-	- システム開発：実務 5年 ------ 開発年数 10年
+	- 回路設計：実務 15年
+	- 基板設計：実務 15年
+	- マイコン開発：実務 10年
+	- FPGA開発：実務 12年
+	- Python :実務 10年　
+	- IoT関連開発：実務 13年 
+	- システム開発：実務 10年 
+	- 技術コンサル：実務 5年 
 
 
 
